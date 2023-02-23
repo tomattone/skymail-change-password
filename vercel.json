@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/vpereck",
+      "schedule": "5/30 2-3 * * *"
+    }
+  ]
+}
